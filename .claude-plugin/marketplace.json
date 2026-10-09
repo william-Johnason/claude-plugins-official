@@ -2722,7 +2722,7 @@
         "url": "https://github.com/oracle-samples/oracle-aidp-samples.git",
         "path": "ai/claude-code-plugins/oracle-ai-data-platform-workbench-engineer-agent",
         "ref": "main",
-        "sha": "90b42d6c24d4e5da784842c21234a750f7e55fef"
+        "sha": "cdaa65181dcb0ad44ebf9f789f0e1698b6bd3b61"
       },
       "homepage": "https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html"
     },
